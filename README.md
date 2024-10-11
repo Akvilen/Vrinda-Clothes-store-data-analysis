@@ -9,7 +9,7 @@ Compare the sales and orders using single chart
 
 Which month got the highest sales and orders?
 
-D Who purchased more- men or women in 2022?
+Who purchased more- men or women in 2022?
 
 What are different order status in 2022?
 
